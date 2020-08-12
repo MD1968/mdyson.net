@@ -194,6 +194,11 @@ header {
 }
 
 
+.hvr-sweep-to-bottom-cert:before {
+    background: rgba(0, 0, 0, 0.2);
+    height: 10px;
+}
+
 /*--------------------------------------------Footer*/
 
 footer {
