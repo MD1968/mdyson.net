@@ -14,10 +14,10 @@ require 'php-mailer/src/PHPMailer.php';
 $mail = new PHPMailer();
 
 // Enter your email address. If you need multiple email recipes simply add a comma: email@domain.com, email2@domain.com
-$to = "info@silverheath.co.uk";
+$to = "mark@mdyson.net";
 
 // Add your reCaptcha Secret key if you wish to activate google reCaptcha security
-$recaptcha_secret_key = '6LcrdP0UAAAAAPJfBoVVa0Wnwy-ZgkVVCHe0RJsQ'; 
+$recaptcha_secret_key = '6Le4KPwUAAAAALmXTmTjCosfmW_YqQT5mmd1xARl'; 
 
 //This functionality will process post fields without worrying to define them on your html template for your customzied form. 
 //Note: autofields will process only post fields that starts with name widget-contact-form OR with custom prefix field name
