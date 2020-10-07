@@ -14,7 +14,7 @@ body {
         Georgia,
         serif;
     font-weight: 300;
-      color: #555555;
+    color: #555555;
 }
 
 
@@ -137,49 +137,50 @@ h6 {
 
 /* iPhone 6 landscape */
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
-   .card {
-       margin-top: 5%;
-       margin-left: 25%;
-       margin-right: 25%$;
-       text-align: justify;
+    .card {
+        margin-top: 5%;
+        margin-left: 25%;
+        margin-right: 25%$;
+        text-align: justify;
 
-   }
+    }
 }
 }
 
 /* iPhone 6 portrait */
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
-  .card {
-      margin-top: 5%;
-     margin-left: 25%;
-     margin-right: 25%$;
-     text-align: justify;
+    .card {
+        margin-top: 5%;
+        margin-left: 25%;
+        margin-right: 25%$;
+        text-align: justify;
 
-  }
+    }
 }
+
 
 
 /* iPhone 6 Plus landscape */
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 3) {
-   .card {
-       margin-top: 5%;
-       margin-left: 5%;
-       margin-right: 5%$;
-       text-align: justify;
+    .card {
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: 5%$;
+        text-align: justify;
 
-   }
+    }
 }
 
 
 /* iPhone 6 Plus portrait */
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 3) {
-   .card {
-       margin-top: 5%;
-       margin-left: 5%;
-       margin-right: 5%$;
-       text-align: justify;
+    .card {
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: 5%$;
+        text-align: justify;
 
-   }
+    }
 }
 
 
@@ -188,21 +189,21 @@ h6 {
 @media only screen and (max-device-width: 640px),
 only screen and (max-device-width: 667px),
 only screen and (max-width: 480px) {
-  .card {
-      margin-top: 5%;
-      margin-left: 5%;
-      margin-right: 5%$;
-      text-align: justify;
+    .card {
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: 5%$;
+        text-align: justify;
 
-  }
+    }
 }
 
 
 @media only screen and (min-width : 1224px) {
-   .card {
-       margin-top: 5%;
-       margin-left: 5%;
-       margin-right: 5%;
-       text-align: justify;
+    .card {
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: 5%;
+        text-align: justify;
 
-   }
+    }
